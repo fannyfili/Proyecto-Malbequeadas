@@ -1,0 +1,139 @@
+
+*{margin: 0;
+ padding: 0 ;
+ background-color: lightgray;
+ }
+
+ li { display: inline; 
+      margin: 0 20 px ;
+    }
+.logo { 
+    width: 90px ;
+    position: absolute;
+    margin-top: 20px;
+    left: 10px;
+    border-radius: 5px;
+   
+}
+
+section div{ width: 100%;}
+header{
+    background-image: url(../images/fondopedregoso.JPG);
+}
+
+main nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: lightgray;
+}
+
+fieldset nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content:center ;
+    padding: 25px;
+    align-items: flex-end;     
+}
+
+.productosPadre{
+    display: flex;
+    justify-content: stretch;
+    flex-wrap: nowrap;
+    height: 95%;
+    border: 1px solid black;
+    
+}
+
+.buscador{ 
+    margin-top: 60px;
+    margin-left: 40%;
+    display: block;
+}
+
+nav{ display: inline;
+    text-align:end ;
+    height: 100px;
+    background-color: lightgray;
+    }
+
+main p {
+    justify-self: center;
+}
+foo{height: 50vph ;}
+.carousel.inner{ height: 50vph;}
+
+}
+.productos { 
+    display:flex;
+    width: 10%;
+    padding: 1rem 2rem;
+    margin: 1rem;
+    flex-direction: column ;
+            
+        }   
+    
+
+ul{ text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 20px ;
+}
+
+
+a{ text-decoration: none;
+color: darkblue;
+margin: 0 10px;}
+
+header { background-image: url(../images/fondopedregoso.JPG ) ;
+    font-size: 20 rem; 
+        height: 200px;
+        
+
+}
+body{
+    background-color: lightgray;
+}
+
+.footer { background: rgb(115,110,119);
+    background: linear-gradient(90deg, rgba(115,110,119,0.1527777777777778) 0%, rgba(110,90,86,1) 55%, rgba(252,176,69,1) 100%);
+    padding: 50px; 
+    margin: 0 20px;
+    text-align: left;
+    }
+ footer p { background:  transparent;
+    background: linear-gradient(90deg, rgba(115,110,119,0.1527777777777778) 0%, rgba(110,90,86,1) 55%, rgba(252,176,69,1) 100%);}   
+    footer form{  background: rgb(115,110,119);
+        background: linear-gradient(90deg, rgba(115,110,119,0.1527777777777778) 0%, rgba(110,90,86,1) 55%, rgba(252,176,69,1) 100%);
+    
+    }
+
+footer div { background: rgb(115,110,119);
+    background: linear-gradient(90deg, rgba(115,110,119,0.1527777777777778) 0%, rgba(110,90,86,1) 55%, rgba(252,176,69,1) 100%);
+
+
+}
+
+    #hero{
+        display: grid;
+        grid-template-areas: "pase pase pase"
+
+
+}
+
+
+
+@media screen and (min-width: 768px){
+
+    #hero{  grid-template-areas: "pase pase pase";}
+    
+                                }        
+@media screen and( max-width: 425px) {
+    #hero{  grid-template-areas: "pase"
+                                 "pase"
+                                "pase";
+            background-color: yellow;
+    
+}
+    
+
+}
