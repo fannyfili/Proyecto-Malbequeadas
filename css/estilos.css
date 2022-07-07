@@ -68,7 +68,7 @@ transform: translate3d(3px);
     
 
 ul{ text-align: center;
-    padding-top: 30px;
+    padding-top: 60px;
     padding-bottom: 30px;
     font-size: 20px ;
 }
@@ -76,7 +76,7 @@ ul{ text-align: center;
 
 a{ text-decoration: none;
 color: darkblue;
-margin: 0 10px;}
+margin: 0px;}
 
 header { background-image: url(../images/fondopedregoso.JPG ) ;
     font-size: 20 rem; 
