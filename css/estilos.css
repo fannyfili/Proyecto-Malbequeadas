@@ -61,7 +61,7 @@ main p {
 foo{height: 50vph ;}
 .carousel.inner{ height: 50vph;}
 
-}
+
 .cards:hover {
 transform: translate3d(3px);            
         }   
@@ -95,8 +95,8 @@ body{
         margin: 0 20px;
         text-align: left;
     }
- footer p { background:  transparent;}
- footer form{  background:transparent;
+footer p { background:  transparent;}
+footer form{  background:transparent;
                }
 
 footer div { background: transparent;

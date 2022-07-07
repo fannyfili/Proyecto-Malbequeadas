@@ -1,1 +1,5 @@
 {"version":3,"sources":["../css/parciales/_reset.scss","main.css"],"names":[],"mappings":"AAAA;EAAG,SAAA;EACH,UAAA;EACA,sBAAA;ACEA","file":"main.css"}
+    @for $i from 1 to 8 {
+        .col -#{$i}
+        
+    }

@@ -1,2 +1,6 @@
 @import "../css/parciales/variables";
 @import "../css/parciales/reset"
+@for $i from 1 to 8 {
+    .col -#{$i}
+    
+}
