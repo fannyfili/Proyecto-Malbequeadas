@@ -1,14 +1,14 @@
 @import "../css/parciales/variables";
 @import "../css/parciales/reset"
 
-@estiloMalbequeadas (
-    color: lightgrey;
-    centro: center;
-    fuente: 5px;
-    1rem: 1rem;
-);
+$estiloMalbequeadas (
+    color: lightgrey,
+    centro: center,
+    fuente: 5px,
+    1rem: 1rem,
+    )
 
 
-@otroMapa ( height: 3rem;
+@otroMapa ( height: 3rem,
 
 )
