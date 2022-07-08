@@ -1,13 +1,4 @@
 {"version":3,"sources":["../css/parciales/_reset.scss","main.css"],"names":[],"mappings":"AAAA;EAAG,SAAA;EACH,UAAA;EACA,sBAAA;ACEA","file":"main.css"}
 
-@estiloMalbequeadas (
-    color: lightgrey;
-    centro: center;
-    fuente: 5px;
-    1rem: 1rem;
-)
 
-@otroMapa ( height: 3rem;
-
-)
 

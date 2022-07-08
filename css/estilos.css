@@ -49,7 +49,7 @@ fieldset nav ul {
     margin-left: 40%;
     display: block;
 }
-nav{ display: inline;
+nav{ 
     text-align:end ;
     height: 100px;
     background-color: orange;
