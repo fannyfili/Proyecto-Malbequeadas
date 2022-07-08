@@ -1,7 +1,7 @@
 
 *{margin: 0;
  padding: 0 ;
- background-color: lightgray;
+ 
  }
 
  li { display: inline; 
@@ -52,7 +52,7 @@ fieldset nav ul {
 nav{ display: inline;
     text-align:end ;
     height: 100px;
-    background-color: lightgray;
+    background-color: orange;
     }
 
 main p {
